@@ -7,3 +7,6 @@
 <p align="center">Soy un apasionado desarrollador backend, encantado por el mundo de la tecnología. Me encanta aprender cosas nuevas constantemente relacionadas al desarrollo entre otras y aplicar esos aprendizajes en proyectos y mi vida 💚</p>
 
 ## Lenguajes y herramientas:
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+</div>
